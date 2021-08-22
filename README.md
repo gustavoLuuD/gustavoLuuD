@@ -1,11 +1,5 @@
-## Working smarter every day💪
+## 🧠Working smarter every day💪
 
-
-
-- Estudante de Ciência da computação 👨‍🎓
-- No momento com foco em aprender Java e Js ☕
-- Sempre aprendendo coisas novas no mundo da tecnologia 🧠
-</br>
 
 <div>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=gustavoLuuD&show_icons=true&theme=synthwave">
