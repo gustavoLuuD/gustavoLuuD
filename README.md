@@ -8,8 +8,8 @@
 </br>
 
 <div>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=gustavoLuuD&show_icons=true&theme=radical">
-  <img  height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoLuuD&layout=compact&theme=radical">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=gustavoLuuD&show_icons=true&theme=synthwave">
+  <img  height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoLuuD&layout=compact&theme=synthwave">
 </div>
 
 </br>
