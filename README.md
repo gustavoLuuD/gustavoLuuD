@@ -5,10 +5,13 @@
 
 </br>
 </br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<div style="display: inline-block">
-  
-  
+<div>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoLuuD&show_icons=true&theme=tokyonight"/>
+  <img align ="center"height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoLuuD&layout=compact&theme=tokyonight"/>
+</div>
+</br>
+</br>
+<div style="display: inline-block">  
   <img  align = "center" height = "40em" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img  align = "center" height = "40em" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img  align = "center" height = "40em" src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
