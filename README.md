@@ -5,8 +5,9 @@
 
 </br>
 </br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 <div style="display: inline-block">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  
   
   <img  align = "center" height = "40em" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img  align = "center" height = "40em" src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
